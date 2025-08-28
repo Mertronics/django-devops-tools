@@ -208,5 +208,6 @@ __marimo__/
 
 
 # django-devops-tools
+data
 local
 scripts/create_prompt.sh
